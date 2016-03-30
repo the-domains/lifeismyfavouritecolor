@@ -1,0 +1,13 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#F9E9C6'
+    - '#D0C5B2'
+    - '#306491'
+    - '#9AA3A3'
+  rhythmicContrast: 0.8489361
+typography_spectrum: 1
+name: Lifeismyfavouritecolor

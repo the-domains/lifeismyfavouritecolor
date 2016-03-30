@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:7a2dceed-0912-4f49-92be-48b76761ab87'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-30T09:46:54.223Z'
+dateModified: '2016-03-30T09:39:47.935Z'
 author: []
-datePublished: '2016-03-30T09:35:52.330Z'
-publisher:
-  domain: ''
-  name: ''
 title: Natureismyfavoritecolor
-dateModified: '2016-03-30T09:34:22.408Z'
 sourcePath: _posts/2016-03-30-natureismyfavoritecolor.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: natureismyfavoritecolor/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 

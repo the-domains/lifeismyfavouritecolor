@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lifeismyfavouritecolor]]></title>
-        <description><![CDATA[Lifeismyfavouritecolor]]></description>
+        <title><![CDATA[Life is my favourite color]]></title>
+        <description><![CDATA[Life is my favourite color]]></description>
         <link>https://thegrid.ai/lifeismyfavouritecolor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 08:31:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeismyfavouritecolor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blue Boys]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lifeismyfavouritecolor/blue-boys/index.html</link>
             <guid isPermaLink="false">93f271bd-55f6-4e0d-9765-9d53069cba28</guid>
             <pubDate>Sat, 02 Apr 2016 08:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simon THE painter]]></title>
+            <description><![CDATA[<article><h1>Simon THE painter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4b707b-8fd7-420b-9ecc-841eb63e4018.png"></article>]]></description>
+            <link>https://thegrid.ai/lifeismyfavouritecolor/simon-the-painter/index.html</link>
+            <guid isPermaLink="false">72f7852c-485c-40a9-a7a4-1b8432eec9c4</guid>
+            <pubDate>Sat, 02 Apr 2016 08:30:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Autumn is my favorite color]]></title>

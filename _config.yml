@@ -1,5 +1,7 @@
-favicon: null
-name: Lifeismyfavouritecolor
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -22,18 +24,17 @@ color:
   brandStrength: 0
   lightness: 0.6553192
   brandColors:
-    - '#F9E9C6'
-    - '#D0C5B2'
-    - '#306491'
-    - '#9AA3A3'
+    - '#1F100A'
+    - '#FFFFFF'
+    - '#F2654C'
+    - '#883026'
+    - '#F3FF03'
   rhythmicContrast: 0.01276596
-typography_spectrum: 0.26775
+typography_spectrum: 0.2829787
 cta:
   bucket: null
   version: null
   domain: null
 layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Lifeismyfavouritecolor
